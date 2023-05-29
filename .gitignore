@@ -13,7 +13,7 @@
 _*
 *~
 build/
+!nes/rom/*.nes
 nes/gen/
-nes/rom/
 !nes/rom/README.md
 !.gitignore
